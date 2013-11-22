@@ -1,0 +1,6 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\playfair\playfair\bin\Debug\playfair.exe.config
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\playfair\playfair\bin\Debug\playfair.exe
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\playfair\playfair\bin\Debug\playfair.pdb
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\playfair\playfair\obj\Debug\playfair.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\playfair\playfair\obj\Debug\playfair.exe
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\playfair\playfair\obj\Debug\playfair.pdb
